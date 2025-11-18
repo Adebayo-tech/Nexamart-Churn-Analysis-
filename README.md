@@ -1,5 +1,3 @@
-```markdown
-
 # 📊 Nexamart Customer Churn Analysis
 
 
@@ -28,7 +26,7 @@ Comprehensive analysis of customer complaints and cancellation reasons to identi
 
 
 
-```
+
 
 
 
@@ -96,7 +94,7 @@ Nexamart-Customer-Churn-Analysis/
 
 
 
-```
+
 
 
 
@@ -138,7 +136,7 @@ Nexamart-Customer-Churn-Analysis/
 
 **Usage Instructions:**
 
-1. Open `Dashboard/customer_churn_dashboard.xlsx`
+1. Open Dashboard/customer_churn_dashboard.xlsx
 
 2. Enable editing and macros if prompted
 
@@ -486,7 +484,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 
 
-```
+
 
 
 
