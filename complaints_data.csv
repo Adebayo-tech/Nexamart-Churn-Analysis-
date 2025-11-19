@@ -1,0 +1,386 @@
+Complaint_ID,Customer_ID,Gender,Age,Product_Category,Complaint_Date,Complaint_Channel,Complaint_Text,Complaint_Type,Resolution_Status
+C001,1001,F,29,Electronics,15/09/2024,Email,The smartphone I received has a scratched screen and the battery drains in just 4 hours.,Quality,Resolved
+C002,1002,M,34,Clothing,16/09/2024,App,"I ordered a size L shirt, but what arrived was clearly a size M.",Delivery,Pending
+C003,1003,F,41,Home & Kitchen,17/09/2024,Chat,My blender stopped working after just two uses. The motor makes a burning smell.,Quality,Escalated
+C004,1004,M,27,Electronics,18/09/2024,Email,I was charged twice for my headphone order. Please refund the duplicate transaction.,Payment,Resolved
+C005,1005,F,36,Clothing,19/09/2024,App,The color of the dress is completely different from the picture on the website.,Quality,Pending
+C006,1006,M,45,Electronics,20/09/2024,Phone,"The laptop was supposed to include a free bag, but it was missing from the package.",Delivery,Resolved
+C007,1007,F,31,Beauty,21/09/2024,App,The skincare product caused an allergic reaction and skin irritation.,Quality,Escalated
+C008,1008,M,38,Home & Kitchen,22/09/2024,Email,My microwave oven arrived with a dent on the door and broken glass tray.,Delivery,Pending
+C009,1009,F,29,Clothing,23/09/2024,Chat,The stitching on the jeans is coming apart after just one wash.,Quality,Resolved
+C010,1010,M,42,Electronics,24/09/2024,App,Return process is too complicated and customer service is not helpful.,Service,Pending
+C011,1011,F,33,Books,25/09/2024,Email,The book arrived with torn pages and a damaged cover.,Quality,Resolved
+C012,1012,M,28,Electronics,26/09/2024,App,The wireless earphones have very poor connectivity and keep disconnecting.,Quality,Pending
+C013,1013,F,35,Clothing,27/09/2024,Email,The sweater I ordered is much thinner than shown in the product images.,Quality,Resolved
+C014,1014,M,44,Home & Kitchen,28/09/2024,Chat,The non-stick pan started peeling after just one month of use.,Quality,Escalated
+C015,1015,F,39,Electronics,29/09/2024,Phone,My refund has not been processed even after 15 days of returning the product.,Payment,Pending
+C016,1016,M,31,Sports,30/09/2024,App,The football I purchased is not the official size and feels very cheap.,Quality,Resolved
+C017,1017,F,47,Beauty,01/10/2024,Email,The perfume bottle was leaking when it arrived and half the content was lost.,Delivery,Pending
+C018,1018,M,26,Jewelry,02/10/2024,Chat,The silver chain has turned black within two weeks of purchase.,Quality,Escalated
+C019,1019,F,32,Clothing,03/10/2024,App,The zipper on the jacket is broken and cannot be closed properly.,Quality,Resolved
+C020,1020,M,41,Electronics,04/10/2024,Email,The smartwatch battery lasts only 6 hours instead of the promised 24 hours.,Quality,Pending
+C021,1021,F,29,Home & Kitchen,05/10/2024,Phone,The food processor makes extremely loud noise and vibrates dangerously.,Quality,Resolved
+C022,1022,M,36,Electronics,06/10/2024,App,The tablet screen has dead pixels right out of the box.,Quality,Pending
+C023,1023,F,43,Clothing,07/10/2024,Email,The dress material is see-through and completely different from what was advertised.,Quality,Resolved
+C024,1024,M,38,Home & Kitchen,08/10/2024,Chat,The water purifier is leaking from the bottom and flooding my kitchen.,Quality,Escalated
+C025,1025,F,34,Books,09/10/2024,App,I received the wrong book title. This is not what I ordered.,Delivery,Pending
+C026,1026,M,45,Sports,10/10/2024,Email,The cricket bat cracked during the first practice session.,Quality,Resolved
+C027,1027,F,31,Beauty,11/10/2024,Phone,The foundation shade is completely different from what I selected online.,Quality,Pending
+C028,1028,M,29,Jewelry,12/10/2024,App,The gold plating on the ring is already wearing off after one week.,Quality,Escalated
+C029,1029,F,37,Clothing,13/10/2024,Email,The shoes are extremely uncomfortable and causing blisters on my feet.,Quality,Resolved
+C030,1030,M,42,Electronics,14/10/2024,Chat,The camera lens has dust particles inside that are visible in all photos.,Quality,Pending
+C031,1031,F,28,Home & Kitchen,15/10/2024,App,The iron stopped working after just 3 uses. No power light or heating.,Quality,Resolved
+C032,1032,M,33,Electronics,16/10/2024,Email,The gaming console overheats within 30 minutes of gameplay.,Quality,Pending
+C033,1033,F,39,Clothing,17/10/2024,App,The kurta fabric shrunk significantly after the first wash.,Quality,Resolved
+C034,1034,M,46,Home & Kitchen,18/10/2024,Chat,The mixer grinder jar cracked while making simple chutney.,Quality,Escalated
+C035,1035,F,35,Electronics,19/10/2024,Phone,My order was marked delivered but I never received the package.,Delivery,Pending
+C036,1036,M,32,Sports,20/10/2024,App,The badminton racket string broke during the first game.,Quality,Resolved
+C037,1037,F,41,Beauty,21/10/2024,Email,"The shampoo bottle arrived without any safety seal, seems tampered with.",Delivery,Pending
+C038,1038,M,28,Jewelry,22/10/2024,Chat,The pendant came separated from the chain in the package.,Delivery,Escalated
+C039,1039,F,34,Clothing,23/10/2024,App,The winter coat is not warm at all as advertised. Very thin material.,Quality,Resolved
+C040,1040,M,43,Electronics,24/10/2024,Email,The power bank takes over 12 hours to charge fully.,Quality,Pending
+C041,1041,F,30,Home & Kitchen,25/10/2024,Phone,"The pressure cooker whistle is not working properly, safety concern.",Quality,Resolved
+C042,1042,M,37,Electronics,26/10/2024,App,The wireless mouse disconnects randomly every few minutes.,Quality,Pending
+C043,1043,F,44,Clothing,27/10/2024,Email,The saree border is misaligned and stitching is coming loose.,Quality,Resolved
+C044,1044,M,39,Home & Kitchen,28/10/2024,Chat,The induction cooktop shows error code E3 and shuts down automatically.,Quality,Escalated
+C045,1045,F,36,Books,29/10/2024,App,I received a used book with someone else's notes and highlights.,Quality,Pending
+C046,1046,M,47,Sports,30/10/2024,Email,The yoga mat has a strong chemical smell that doesn't go away.,Quality,Resolved
+C047,1047,F,32,Beauty,31/10/2024,Phone,The lipstick broke at the base when I tried to apply it first time.,Quality,Pending
+C048,1048,M,29,Jewelry,01/11/2024,App,The diamond in the necklace looks cloudy and has black spots.,Quality,Escalated
+C049,1049,F,38,Clothing,02/11/2024,Email,The denim jacket color bleeds and stained my white shirt.,Quality,Resolved
+C050,1050,M,42,Electronics,03/11/2024,Chat,"The router Wi-Fi range is very poor, can't connect from adjacent room.",Quality,Pending
+C051,1051,F,31,Home & Kitchen,04/11/2024,App,The air fryer basket handle melted during first use at recommended temperature.,Quality,Resolved
+C052,1052,M,35,Electronics,05/11/2024,Email,The smart bulb cannot connect to my home Wi-Fi network.,Quality,Pending
+C053,1053,F,40,Clothing,06/11/2024,App,The leggings are completely transparent when I bend over.,Quality,Resolved
+C054,1054,M,45,Home & Kitchen,07/11/2024,Chat,The water heater is making loud banging noises when heating water.,Quality,Escalated
+C055,1055,F,37,Electronics,08/11/2024,Phone,Delivery person was rude and threw the package at my door.,Service,Pending
+C056,1056,M,33,Sports,09/11/2024,App,The treadmill speed is inconsistent and suddenly increases/decreases.,Quality,Resolved
+C057,1057,F,42,Beauty,10/11/2024,Email,The face cream caused severe breakouts and redness on my skin.,Quality,Pending
+C058,1058,M,30,Jewelry,11/11/2024,Chat,The bracelet clasp is defective and keeps opening unexpectedly.,Quality,Escalated
+C059,1059,F,36,Clothing,12/11/2024,App,The t-shirt neck is too tight and the sizing is completely wrong.,Quality,Resolved
+C060,1060,M,41,Electronics,13/11/2024,Email,The external hard drive is not being recognized by any of my computers.,Quality,Pending
+C061,1061,F,34,Home & Kitchen,14/11/2024,Phone,"The vacuum cleaner suction is very weak, doesn't pick up dust properly.",Quality,Resolved
+C062,1062,M,38,Electronics,15/11/2024,App,The fitness tracker heart rate monitor shows inaccurate readings.,Quality,Pending
+C063,1063,F,43,Clothing,16/11/2024,Email,The woolen sweater has multiple holes and loose threads throughout.,Quality,Resolved
+C064,1064,M,39,Home & Kitchen,17/11/2024,Chat,"The gas stove burners are not lighting properly, have to try multiple times.",Quality,Escalated
+C065,1065,F,35,Books,18/11/2024,App,"The book pages are printed with very faint ink, difficult to read.",Quality,Pending
+C066,1066,M,46,Sports,19/11/2024,Email,"The basketball lost air within 2 days of purchase, seems punctured.",Quality,Resolved
+C067,1067,F,32,Beauty,20/11/2024,Phone,The nail polish dried up in the bottle before I could use it even once.,Quality,Pending
+C068,1068,M,29,Jewelry,21/11/2024,App,The earrings are causing allergic reaction and itching on my ears.,Quality,Escalated
+C069,1069,F,37,Clothing,22/11/2024,Email,"The raincoat is not waterproof at all, I got completely drenched.",Quality,Resolved
+C070,1070,M,44,Electronics,23/11/2024,Chat,The printer is showing paper jam error even when there is no paper stuck.,Quality,Pending
+C071,1071,F,31,Home & Kitchen,24/11/2024,App,The coffee maker makes extremely bitter coffee no matter the settings.,Quality,Resolved
+C072,1072,M,36,Electronics,25/11/2024,Email,The wireless charger gets extremely hot while charging my phone.,Quality,Pending
+C073,1073,F,41,Clothing,26/11/2024,App,The sequins on the top are falling off and getting everywhere.,Quality,Resolved
+C074,1074,M,47,Home & Kitchen,27/11/2024,Chat,"The sandwich toaster doesn't heat evenly, one side remains cold.",Quality,Escalated
+C075,1075,F,34,Electronics,28/11/2024,Phone,The delivery was 5 days late and no one informed me about the delay.,Delivery,Pending
+C076,1076,M,33,Sports,29/11/2024,App,The tennis balls lost their bounce after just one practice session.,Quality,Resolved
+C077,1077,F,40,Beauty,30/11/2024,Email,The face wash has a very strong chemical smell that irritates my eyes.,Quality,Pending
+C078,1078,M,28,Jewelry,01/12/2024,Chat,The necklace chain is too short and doesn't fit around my neck.,Quality,Escalated
+C079,1079,F,35,Clothing,02/12/2024,App,The dress lining is torn from the inside and poking through the outer fabric.,Quality,Resolved
+C080,1080,M,42,Electronics,03/12/2024,Email,The speaker volume is very low even at maximum setting.,Quality,Pending
+C081,1081,F,30,Home & Kitchen,04/12/2024,Phone,"The food containers lids don't fit properly, they keep popping open.",Quality,Resolved
+C082,1082,M,39,Electronics,05/12/2024,App,The smart TV remote stopped working after 2 days of purchase.,Quality,Pending
+C083,1083,F,45,Clothing,06/12/2024,Email,The leather jacket has a chemical smell that won't go away.,Quality,Resolved
+C084,1084,M,32,Home & Kitchen,07/12/2024,Chat,The water dispenser is leaking from the bottom connection.,Quality,Escalated
+C085,1085,F,38,Books,08/12/2024,App,The dictionary I received has missing pages from A to C section.,Quality,Pending
+C086,1086,M,41,Sports,09/12/2024,Email,The cricket gloves stitching is coming apart after one match.,Quality,Resolved
+C087,1087,F,29,Beauty,10/12/2024,Phone,The face powder has a weird gritty texture and doesn't blend well.,Quality,Pending
+C088,1088,M,36,Jewelry,11/12/2024,App,The watch stops working randomly and needs shaking to start again.,Quality,Escalated
+C089,1089,F,43,Clothing,12/12/2024,Email,The silk saree color faded after the first wash despite dry cleaning.,Quality,Resolved
+C090,1090,M,31,Electronics,13/12/2024,Chat,"The headphones have unbalanced audio, left side is louder than right.",Quality,Pending
+C091,1091,F,37,Home & Kitchen,14/12/2024,App,"The electric kettle automatic shutoff is not working, safety hazard.",Quality,Resolved
+C092,1092,M,44,Electronics,15/12/2024,Email,The tablet charging port is loose and doesn't charge properly.,Quality,Pending
+C093,1093,F,28,Clothing,16/12/2024,Phone,The jeans waistband is too tight even though I ordered my usual size.,Quality,Resolved
+C094,1094,M,35,Home & Kitchen,17/12/2024,App,The mixer grinder blades are blunt and cannot grind even soft spices.,Quality,Escalated
+C095,1095,F,42,Books,18/12/2024,Email,The novel I received has the cover of one book but content of another.,Delivery,Pending
+C096,1096,M,39,Sports,19/12/2024,Chat,The badminton shoes sole came off during the first game.,Quality,Resolved
+C097,1097,F,33,Beauty,20/12/2024,App,"The eyeliner smudges immediately after application, very poor quality.",Quality,Pending
+C098,1098,M,46,Jewelry,21/12/2024,Email,The bracelet size is much smaller than what was specified in the description.,Quality,Escalated
+C099,1099,F,30,Clothing,22/12/2024,Phone,The sweater material is itchy and causes skin irritation.,Quality,Resolved
+C100,1100,M,41,Electronics,23/12/2024,App,The laptop fan makes grinding noise and system overheats constantly.,Quality,Pending
+C101,1101,F,36,Home & Kitchen,24/12/2024,Email,"The refrigerator is not cooling properly, food items are spoiling.",Quality,Resolved
+C102,1102,M,43,Electronics,25/12/2024,Chat,The mobile phone touch screen is unresponsive in certain areas.,Quality,Pending
+C103,1103,F,29,Clothing,26/12/2024,App,The dress fabric pills easily and looks old after one wear.,Quality,Resolved
+C104,1104,M,37,Home & Kitchen,27/12/2024,Phone,The washing machine makes loud noise during spin cycle.,Quality,Escalated
+C105,1105,F,44,Books,28/12/2024,Email,The pages of the book are coming loose from the binding.,Quality,Pending
+C106,1106,M,32,Sports,29/12/2024,App,The football jersey color bleeds and stained my other clothes in wash.,Quality,Resolved
+C107,1107,F,39,Beauty,30/12/2024,Chat,The mascara tube was half empty when I received it.,Delivery,Pending
+C108,1108,M,45,Jewelry,31/12/2024,Email,The gemstone in the ring is loose and moves around in its setting.,Quality,Escalated
+C109,1109,F,31,Clothing,01/01/2025,App,The shirt buttons are poorly attached and one already fell off.,Quality,Resolved
+C110,1110,M,38,Electronics,02/01/2025,Phone,The Bluetooth speaker battery lasts only 1 hour instead of 8 hours.,Quality,Pending
+C111,1111,F,42,Home & Kitchen,03/01/2025,App,"The oven temperature is inaccurate, burns everything I try to bake.",Quality,Resolved
+C112,1112,M,35,Electronics,04/01/2025,Email,The smartwatch screen has developed lines and becomes unreadable.,Quality,Pending
+C113,1113,F,40,Clothing,05/01/2025,Chat,The leggings fabric is see-through and not stretchy as described.,Quality,Resolved
+C114,1114,M,47,Home & Kitchen,06/01/2025,App,"The chimney suction is very weak, kitchen fills with smoke while cooking.",Quality,Escalated
+C115,1115,F,33,Books,07/01/2025,Email,The book cover is completely different from what is shown on website.,Delivery,Pending
+C116,1116,M,36,Sports,08/01/2025,Phone,The yoga mat is very slippery and provides no grip during exercises.,Quality,Resolved
+C117,1117,F,41,Beauty,09/01/2025,App,The compact powder shattered during transit due to poor packaging.,Delivery,Pending
+C118,1118,M,28,Jewelry,10/01/2025,Email,The necklace chain length is different from what was ordered.,Delivery,Escalated
+C119,1119,F,34,Clothing,11/01/2025,Chat,The jacket lining is torn from the inside and coming out.,Quality,Resolved
+C120,1120,M,39,Electronics,12/01/2025,App,"The computer monitor has backlight bleeding issues, very distracting.",Quality,Pending
+C121,1121,F,45,Home & Kitchen,13/01/2025,Email,The dishwasher leaves soap residue on all dishes after wash cycle.,Quality,Resolved
+C122,1122,M,32,Electronics,14/01/2025,Chat,The smart bulb flickers constantly and cannot maintain steady brightness.,Quality,Pending
+C123,1123,F,38,Clothing,15/01/2025,App,The dress fabric is extremely stiff and uncomfortable to wear.,Quality,Resolved
+C124,1124,M,41,Home & Kitchen,16/01/2025,Phone,The geyser takes too long to heat water and consumes excessive electricity.,Quality,Escalated
+C125,1125,F,36,Books,17/01/2025,Email,The book arrived with water damage and pages are stuck together.,Delivery,Pending
+C126,1126,M,43,Sports,18/01/2025,App,The cricket helmet padding is coming out and doesn't fit properly.,Quality,Resolved
+C127,1127,F,29,Beauty,19/01/2025,Chat,The face serum has separated into layers and looks expired.,Quality,Pending
+C128,1128,M,47,Jewelry,20/01/2025,Email,"The ring size is completely wrong, much smaller than what I ordered.",Delivery,Escalated
+C129,1129,F,34,Clothing,21/01/2025,App,The shirt collar is uneven and stitching is visible on the outside.,Quality,Resolved
+C130,1130,M,39,Electronics,22/01/2025,Phone,The gaming controller buttons are sticking and not responsive.,Quality,Pending
+C131,1131,F,42,Home & Kitchen,23/01/2025,Email,The air conditioner remote control is not working from day one.,Quality,Resolved
+C132,1132,M,35,Electronics,24/01/2025,Chat,The laptop keyboard has several keys that don't work properly.,Quality,Pending
+C133,1133,F,40,Clothing,25/01/2025,App,The kurta embroidery is coming loose and threads are hanging.,Quality,Resolved
+C134,1134,M,37,Home & Kitchen,26/01/2025,Phone,The chimney remote control battery compartment is broken.,Quality,Escalated
+C135,1135,F,44,Books,27/01/2025,Email,The book spine is cracked and pages are falling out.,Quality,Pending
+C136,1136,M,31,Sports,28/01/2025,App,The football pump is defective and cannot inflate the ball.,Quality,Resolved
+C137,1137,F,46,Beauty,29/01/2025,Chat,The lip balm has a weird chemical taste and waxy texture.,Quality,Pending
+C138,1138,M,33,Jewelry,30/01/2025,Email,The pendant stone fell out and was lost within first week.,Quality,Escalated
+C139,1139,F,38,Clothing,31/01/2025,App,The winter jacket filling is lumpy and unevenly distributed.,Quality,Resolved
+C140,1140,M,41,Electronics,01/02/2025,Phone,The tablet case doesn't fit properly and keeps falling off.,Quality,Pending
+C141,1141,F,36,Home & Kitchen,02/02/2025,Email,"The water filter UV light is not working, no indicator glow.",Quality,Resolved
+C142,1142,M,43,Electronics,03/02/2025,Chat,The Bluetooth speaker volume control is erratic and jumps levels.,Quality,Pending
+C143,1143,F,30,Clothing,04/02/2025,App,The leggings waistband is too loose and doesn't stay up.,Quality,Resolved
+C144,1144,M,47,Home & Kitchen,05/02/2025,Phone,The induction cooktop surface cracked during first use.,Quality,Escalated
+C145,1145,F,34,Books,06/02/2025,Email,The book printing is blurry and difficult to read in many sections.,Quality,Pending
+C146,1146,M,39,Sports,07/02/2025,App,The badminton net is torn and cannot be stretched properly.,Quality,Resolved
+C147,1147,F,42,Beauty,08/02/2025,Chat,The compact mirror is cracked and reflects distorted image.,Quality,Pending
+C148,1148,M,29,Jewelry,09/02/2025,Email,The bracelet lock is defective and opens unexpectedly.,Quality,Escalated
+C149,1149,F,45,Clothing,10/02/2025,App,The saree pallu is much shorter than standard length.,Quality,Resolved
+C150,1150,M,32,Electronics,11/02/2025,Phone,"The power strip sockets are too tight, difficult to plug devices.",Quality,Pending
+C151,1151,F,37,Home & Kitchen,12/02/2025,Email,"The food processor jar lid doesn't lock properly, safety issue.",Quality,Resolved
+C152,1152,M,44,Electronics,13/02/2025,Chat,The wireless mouse scroll wheel is not working smoothly.,Quality,Pending
+C153,1153,F,31,Clothing,14/02/2025,App,The dress zipper gets stuck halfway and cannot be opened.,Quality,Resolved
+C154,1154,M,46,Home & Kitchen,15/02/2025,Phone,The gas stove knobs are very stiff and difficult to turn.,Quality,Escalated
+C155,1155,F,35,Books,16/02/2025,Email,The book cover design is different from what was shown online.,Delivery,Pending
+C156,1156,M,40,Sports,17/02/2025,App,The tennis racket grip is slippery and provides no traction.,Quality,Resolved
+C157,1157,F,47,Beauty,18/02/2025,Chat,The nail polish remover has a strong chemical smell that causes headache.,Quality,Pending
+C158,1158,M,33,Jewelry,19/02/2025,Email,The earring backs are too loose and keep falling off.,Quality,Escalated
+C159,1159,F,38,Clothing,20/02/2025,App,The jacket pockets are sewn shut and cannot be used.,Quality,Resolved
+C160,1160,M,41,Electronics,21/02/2025,Phone,"The external SSD transfer speed is very slow, not as advertised.",Quality,Pending
+C161,1161,F,36,Home & Kitchen,22/02/2025,Email,The water purifier filter life indicator is not accurate.,Quality,Resolved
+C162,1162,M,43,Electronics,23/02/2025,Chat,The smart plug keeps disconnecting from Wi-Fi network frequently.,Quality,Pending
+C163,1163,F,30,Clothing,24/02/2025,App,The t-shirt design is peeling off after first wash.,Quality,Resolved
+C164,1164,M,45,Home & Kitchen,25/02/2025,Phone,The chimney auto clean function is not working as described.,Quality,Escalated
+C165,1165,F,34,Books,26/02/2025,Email,The book pages are of poor quality and tear easily.,Quality,Pending
+C166,1166,M,39,Sports,27/02/2025,App,The basketball hoop net is torn and needs replacement.,Quality,Resolved
+C167,1167,F,42,Beauty,28/02/2025,Chat,The face mask packaging was open and product seems used.,Delivery,Pending
+C168,1168,M,29,Jewelry,01/03/2025,Email,The necklace chain is tangled and cannot be straightened.,Quality,Escalated
+C169,1169,F,46,Clothing,02/03/2025,App,The woolen cap is too small and doesn't fit any adult head.,Quality,Resolved
+C170,1170,M,33,Electronics,03/03/2025,Phone,"The computer monitor has color calibration issues, too yellow.",Quality,Pending
+C171,1171,F,38,Home & Kitchen,04/03/2025,Email,"The electric cooker timer is not accurate, food gets overcooked.",Quality,Resolved
+C172,1172,M,41,Electronics,05/03/2025,Chat,The wireless charger charging speed is very slow for my phone.,Quality,Pending
+C173,1173,F,36,Clothing,06/03/2025,App,The jeans button came off the first time I wore them.,Quality,Resolved
+C174,1174,M,43,Home & Kitchen,07/03/2025,Phone,The mixer grinder speed control is not working properly.,Quality,Escalated
+C175,1175,F,30,Books,08/03/2025,Email,The book arrived with someone else's personal notes inside.,Quality,Pending
+C176,1176,M,47,Sports,09/03/2025,App,The cricket ball seam is coming apart after minimal use.,Quality,Resolved
+C177,1177,F,34,Beauty,10/03/2025,Chat,The face wash tube burst open from the bottom during transit.,Delivery,Pending
+C178,1178,M,39,Jewelry,11/03/2025,Email,The bracelet diameter is too large and slips off easily.,Quality,Escalated
+C179,1179,F,42,Clothing,12/03/2025,App,"The shirt sleeves are of different lengths, manufacturing defect.",Quality,Resolved
+C180,1180,M,29,Electronics,13/03/2025,Phone,The tablet pen is not accurate and has significant lag.,Quality,Pending
+C181,1181,F,46,Home & Kitchen,14/03/2025,Email,The air fryer basket coating is peeling off into the food.,Quality,Resolved
+C182,1182,M,33,Electronics,15/03/2025,Chat,The laptop hinge is loose and screen doesn't stay in position.,Quality,Pending
+C183,1183,F,38,Clothing,16/03/2025,App,The dress inner lining is torn and hanging out from the bottom.,Quality,Resolved
+C184,1184,M,41,Home & Kitchen,17/03/2025,Phone,The water heater pressure valve is leaking continuously.,Quality,Escalated
+C185,1185,F,36,Books,18/03/2025,Email,The dictionary has missing words that should be included.,Quality,Pending
+C186,1186,M,43,Sports,19/03/2025,App,The football goal post is unstable and falls over easily.,Quality,Resolved
+C187,1187,F,30,Beauty,20/03/2025,Chat,The eyebrow pencil tip broke immediately on first use.,Quality,Pending
+C188,1188,M,45,Jewelry,21/03/2025,Email,The necklace clasp is too difficult to open and close.,Quality,Escalated
+C189,1189,F,34,Clothing,22/03/2025,App,The sweater has uneven knitting with loose and tight sections.,Quality,Resolved
+C190,1190,M,39,Electronics,23/03/2025,Phone,"The smartwatch strap pin is missing, cannot wear it.",Delivery,Pending
+C191,1191,F,42,Home & Kitchen,24/03/2025,Email,"The refrigerator ice maker is not working, no ice production.",Quality,Resolved
+C192,1192,M,29,Electronics,25/03/2025,Chat,The wireless earbuds case doesn't charge the earbuds properly.,Quality,Pending
+C193,1193,F,46,Clothing,26/03/2025,App,The leggings fabric is pilling badly after just one wash.,Quality,Resolved
+C194,1194,M,33,Home & Kitchen,27/03/2025,Phone,The microwave turntable is not rotating smoothly.,Quality,Escalated
+C195,1195,F,38,Books,28/03/2025,Email,The novel has printing errors with repeated paragraphs.,Quality,Pending
+C196,1196,M,41,Sports,29/03/2025,App,The yoga block is too soft and provides no support.,Quality,Resolved
+C197,1197,F,36,Beauty,30/03/2025,Chat,The face cream consistency is lumpy and doesn't blend well.,Quality,Pending
+C198,1198,M,43,Jewelry,31/03/2025,Email,The ring finish is uneven with visible polishing marks.,Quality,Escalated
+C199,1199,F,30,Clothing,01/04/2025,App,The jacket waterproof coating is peeling off in patches.,Quality,Resolved
+C200,1200,M,47,Electronics,02/04/2025,Phone,The computer speaker has constant static noise in background.,Quality,Pending
+C201,1201,F,34,Home & Kitchen,03/04/2025,Email,The food processor blade is rusting after minimal use.,Quality,Resolved
+C202,1202,M,39,Electronics,04/04/2025,Chat,The tablet screen protector has air bubbles that won't go away.,Quality,Pending
+C203,1203,F,42,Clothing,05/04/2025,App,"The dress hem is uneven, much shorter on one side.",Quality,Resolved
+C204,1204,M,29,Home & Kitchen,06/04/2025,Phone,"The chimney suction power is very weak, smoke escapes.",Quality,Escalated
+C205,1205,F,46,Books,07/04/2025,Email,"The book binding is coming apart, pages falling out.",Quality,Pending
+C206,1206,M,33,Sports,08/04/2025,App,"The tennis balls have no bounce, seem old and used.",Quality,Resolved
+C207,1207,F,38,Beauty,09/04/2025,Chat,The lip gloss applicator is broken and cannot be used.,Quality,Pending
+C208,1208,M,41,Jewelry,10/04/2025,Email,The earring studs are too sharp and hurt my ears.,Quality,Escalated
+C209,1209,F,36,Clothing,11/04/2025,App,The shirt buttons are different sizes and colors.,Quality,Resolved
+C210,1210,M,43,Electronics,12/04/2025,Phone,The smart bulb cannot connect to Alexa for voice control.,Quality,Pending
+C211,1211,F,30,Home & Kitchen,13/04/2025,Email,The electric kettle base is wobbly and unstable.,Quality,Resolved
+C212,1212,M,45,Electronics,14/04/2025,Chat,The laptop cooling fan makes rattling noise constantly.,Quality,Pending
+C213,1213,F,34,Clothing,15/04/2025,App,The jeans fabric is too thin and tears easily.,Quality,Resolved
+C214,1214,M,39,Home & Kitchen,16/04/2025,Phone,The water purifier waste water ratio is too high.,Quality,Escalated
+C215,1215,F,42,Books,17/04/2025,Email,The book cover is upside down compared to the content.,Quality,Pending
+C216,1216,M,29,Sports,18/04/2025,App,The badminton racket frame is cracked on arrival.,Quality,Resolved
+C217,1217,F,46,Beauty,19/04/2025,Chat,"The face powder has mold spots, seems contaminated.",Quality,Pending
+C218,1218,M,33,Jewelry,20/04/2025,Email,The necklace chain links are weak and breaking.,Quality,Escalated
+C219,1219,F,38,Clothing,21/04/2025,App,The sweater sleeves are different lengths.,Quality,Resolved
+C220,1220,M,41,Electronics,22/04/2025,Phone,The power bank doesn't hold charge as advertised.,Quality,Pending
+C221,1221,F,36,Home & Kitchen,23/04/2025,Email,The mixer grinder jar lid cracked while grinding spices.,Quality,Resolved
+C222,1222,M,43,Electronics,24/04/2025,Chat,The wireless keyboard keys are sticking and not responsive.,Quality,Pending
+C223,1223,F,30,Clothing,25/04/2025,App,The dress stitching is coming loose at multiple places.,Quality,Resolved
+C224,1224,M,47,Home & Kitchen,26/04/2025,Phone,The induction cooktop shows error F3 repeatedly.,Quality,Escalated
+C225,1225,F,34,Books,27/04/2025,Email,The book pages are yellowed and smell musty.,Quality,Pending
+C226,1226,M,39,Sports,28/04/2025,App,The cricket bat handle is rough and gives blisters.,Quality,Resolved
+C227,1227,F,42,Beauty,29/04/2025,Chat,The face wash tube has puncture and product is leaking.,Delivery,Pending
+C228,1228,M,29,Jewelry,30/04/2025,Email,"The bracelet diameter is too small, cannot wear it.",Quality,Escalated
+C229,1229,F,46,Clothing,01/05/2025,App,The jacket lining is torn from the armpit area.,Quality,Resolved
+C230,1230,M,33,Electronics,02/05/2025,Phone,The tablet screen has touch dead zones.,Quality,Pending
+C231,1231,F,38,Home & Kitchen,03/05/2025,Email,The food processor motor burned out during first use.,Quality,Resolved
+C232,1232,M,41,Electronics,04/05/2025,Chat,The Bluetooth headphones have unbalanced audio.,Quality,Pending
+C233,1233,F,36,Clothing,05/05/2025,App,The shirt fabric shrunk unevenly after first wash.,Quality,Resolved
+C234,1234,M,43,Home & Kitchen,06/05/2025,Phone,The water heater temperature control is not accurate.,Quality,Escalated
+C235,1235,F,30,Books,07/05/2025,Email,The book arrived with coffee stains on several pages.,Delivery,Pending
+C236,1236,M,45,Sports,08/05/2025,App,"The football valve is defective, air leaks slowly.",Quality,Resolved
+C237,1237,F,34,Beauty,09/05/2025,Chat,The mascara brush is bent and cannot apply properly.,Quality,Pending
+C238,1238,M,39,Jewelry,10/05/2025,Email,The ring stone is loose in its setting.,Quality,Escalated
+C239,1239,F,42,Clothing,11/05/2025,App,The dress zipper is defective and gets stuck.,Quality,Resolved
+C240,1240,M,29,Electronics,12/05/2025,Phone,The smartwatch heart rate monitor is inaccurate.,Quality,Pending
+C241,1241,F,46,Home & Kitchen,13/05/2025,Email,The air conditioner remote display is not working.,Quality,Resolved
+C242,1242,M,33,Electronics,14/05/2025,Chat,"The laptop battery drains too quickly, lasts only 1 hour.",Quality,Pending
+C243,1243,F,38,Clothing,15/05/2025,App,The sweater has holes in multiple places.,Quality,Resolved
+C244,1244,M,41,Home & Kitchen,16/05/2025,Phone,The chimney auto clean function makes loud noise.,Quality,Escalated
+C245,1245,F,36,Books,17/05/2025,Email,"The book pages are cut unevenly, difficult to turn.",Quality,Pending
+C246,1246,M,43,Sports,18/05/2025,App,The yoga mat is too thin and provides no cushioning.,Quality,Resolved
+C247,1247,F,30,Beauty,19/05/2025,Chat,The face cream jar was only half filled.,Delivery,Pending
+C248,1248,M,47,Jewelry,20/05/2025,Email,The necklace chain color is fading after one week.,Quality,Escalated
+C249,1249,F,34,Clothing,21/05/2025,App,The jeans pocket stitching is coming undone.,Quality,Resolved
+C250,1250,M,39,Electronics,22/05/2025,Phone,The computer monitor has backlight bleeding issues.,Quality,Pending
+C251,1251,F,42,Home & Kitchen,23/05/2025,Email,The refrigerator door doesn't seal properly.,Quality,Resolved
+C252,1252,M,29,Electronics,24/05/2025,Chat,The wireless earbuds have connectivity issues.,Quality,Pending
+C253,1253,F,46,Clothing,25/05/2025,App,The dress fabric is transparent and requires lining.,Quality,Resolved
+C254,1254,M,33,Home & Kitchen,26/05/2025,Phone,The mixer grinder speed control is erratic.,Quality,Escalated
+C255,1255,F,38,Books,27/05/2025,Email,The book printing is faded in many sections.,Quality,Pending
+C256,1256,M,41,Sports,28/05/2025,App,The cricket ball stitching is coming loose.,Quality,Resolved
+C257,1257,F,36,Beauty,29/05/2025,Chat,The lipstick case is cracked and cannot close properly.,Quality,Pending
+C258,1258,M,43,Jewelry,30/05/2025,Email,The earring hooks are too thick for my ear piercings.,Quality,Escalated
+C259,1259,F,30,Clothing,31/05/2025,App,The shirt buttons are different from each other.,Quality,Resolved
+C260,1260,M,45,Electronics,01/06/2025,Phone,The tablet charging cable stopped working after 2 days.,Quality,Pending
+C261,1261,F,34,Home & Kitchen,02/06/2025,Email,The water filter cartridge life is much shorter than advertised.,Quality,Resolved
+C262,1262,M,39,Electronics,03/06/2025,Chat,The smart bulb cannot maintain color consistency.,Quality,Pending
+C263,1263,F,42,Clothing,04/06/2025,App,The jacket zipper is of poor quality and gets stuck.,Quality,Resolved
+C264,1264,M,29,Home & Kitchen,05/06/2025,Phone,The gas stove burner flames are uneven.,Quality,Escalated
+C265,1265,F,46,Books,06/06/2025,Email,The book cover is damaged with deep scratches.,Delivery,Pending
+C266,1266,M,33,Sports,07/06/2025,App,The badminton shuttlecocks are damaged and cannot be used.,Quality,Resolved
+C267,1267,F,38,Beauty,08/06/2025,Chat,The face wash has sand-like particles in it.,Quality,Pending
+C268,1268,M,41,Jewelry,09/06/2025,Email,The bracelet clasp is too difficult to operate.,Quality,Escalated
+C269,1269,F,36,Clothing,10/06/2025,App,"The dress size label is wrong, actual size different.",Quality,Resolved
+C270,1270,M,43,Electronics,11/06/2025,Phone,The laptop keyboard backlight is not working.,Quality,Pending
+C271,1271,F,30,Home & Kitchen,12/06/2025,Email,The electric kettle automatic shutoff fails sometimes.,Quality,Resolved
+C272,1272,M,47,Electronics,13/06/2025,Chat,The wireless mouse battery compartment is broken.,Quality,Pending
+C273,1273,F,34,Clothing,14/06/2025,App,The sweater has loose threads all over the fabric.,Quality,Resolved
+C274,1274,M,39,Home & Kitchen,15/06/2025,Phone,The water purifier filter change indicator is not working.,Quality,Escalated
+C275,1275,F,42,Books,16/06/2025,Email,The book has missing chapters mentioned in index.,Quality,Pending
+C276,1276,M,29,Sports,17/06/2025,App,The football pump hose is cracked and leaks air.,Quality,Resolved
+C277,1277,F,46,Beauty,18/06/2025,Chat,The face mask packaging was torn and product exposed.,Delivery,Pending
+C278,1278,M,33,Jewelry,19/06/2025,Email,The necklace chain is twisting and tangling constantly.,Quality,Escalated
+C279,1279,F,38,Clothing,20/06/2025,App,The shirt fabric is see-through and requires layering.,Quality,Resolved
+C280,1280,M,41,Electronics,21/06/2025,Phone,The tablet screen has developed a yellow tint.,Quality,Pending
+C281,1281,F,36,Home & Kitchen,22/06/2025,Email,The microwave turntable motor is not working.,Quality,Resolved
+C282,1282,M,43,Electronics,23/06/2025,Chat,The Bluetooth speaker volume is too low at maximum.,Quality,Pending
+C283,1283,F,30,Clothing,24/06/2025,App,The jeans color bleeds excessively during washing.,Quality,Resolved
+C284,1284,M,45,Home & Kitchen,25/06/2025,Phone,The chimney suction power decreases after 10 minutes.,Quality,Escalated
+C285,1285,F,34,Books,26/06/2025,Email,The book pages are of different paper quality.,Quality,Pending
+C286,1286,M,39,Sports,27/06/2025,App,The cricket bat has a crack in the willow.,Quality,Resolved
+C287,1287,F,42,Beauty,28/06/2025,Chat,"The compact powder has wrong shade, too dark for me.",Quality,Pending
+C288,1288,M,29,Jewelry,29/06/2025,Email,The ring finish is scratched and looks used.,Quality,Escalated
+C289,1289,F,46,Clothing,30/06/2025,App,"The jacket pockets are not deep enough, items fall out.",Quality,Resolved
+C290,1290,M,33,Electronics,01/07/2025,Phone,The smartwatch step counter is highly inaccurate.,Quality,Pending
+C291,1291,F,38,Home & Kitchen,02/07/2025,Email,The food processor blades are dull and cannot chop properly.,Quality,Resolved
+C292,1292,M,41,Electronics,03/07/2025,Chat,The laptop fan is too loud even during normal use.,Quality,Pending
+C293,1293,F,36,Clothing,04/07/2025,App,The dress fabric is too stiff and doesn't drape well.,Quality,Resolved
+C294,1294,M,43,Home & Kitchen,05/07/2025,Phone,The water heater temperature fluctuates unexpectedly.,Quality,Escalated
+C295,1295,F,30,Books,06/07/2025,Email,The book arrived with pen marks on several pages.,Delivery,Pending
+C296,1296,M,47,Sports,07/07/2025,App,The yoga mat has strong rubber smell that won't go away.,Quality,Resolved
+C297,1297,F,34,Beauty,08/07/2025,Chat,The face serum bottle dropper is not working.,Quality,Pending
+C298,1298,M,39,Jewelry,09/07/2025,Email,The bracelet is too tight and cannot be adjusted.,Quality,Escalated
+C299,1299,F,42,Clothing,10/07/2025,App,The shirt collar is misshapen and doesn't lay flat.,Quality,Resolved
+C300,1300,M,29,Electronics,11/07/2025,Phone,The tablet screen has developed dead pixels.,Quality,Pending
+C301,1301,F,46,Home & Kitchen,12/07/2025,Email,The air fryer timer bell is not audible.,Quality,Resolved
+C302,1302,M,33,Electronics,13/07/2025,Chat,The laptop touchpad is not responsive in certain areas.,Quality,Pending
+C303,1303,F,38,Clothing,14/07/2025,App,The jeans waist is too tight compared to other measurements.,Quality,Resolved
+C304,1304,M,41,Home & Kitchen,15/07/2025,Phone,The refrigerator door alarm doesn't work when left open.,Quality,Escalated
+C305,1305,F,36,Books,16/07/2025,Email,The book has printing ink smudges on many pages.,Quality,Pending
+C306,1306,M,43,Sports,17/07/2025,App,The badminton racket string tension is too loose.,Quality,Resolved
+C307,1307,F,30,Beauty,18/07/2025,Chat,The face wash consistency is too watery and runny.,Quality,Pending
+C308,1308,M,45,Jewelry,19/07/2025,Email,The necklace chain is too thin and feels fragile.,Quality,Escalated
+C309,1309,F,34,Clothing,20/07/2025,App,The sweater has uneven dye patches.,Quality,Resolved
+C310,1310,M,39,Electronics,21/07/2025,Phone,The power bank doesn't charge my phone completely.,Quality,Pending
+C311,1311,F,42,Home & Kitchen,22/07/2025,Email,The mixer grinder jar has hairline cracks.,Quality,Resolved
+C312,1312,M,29,Electronics,23/07/2025,Chat,The wireless headphones have static noise in left ear.,Quality,Pending
+C313,1313,F,46,Clothing,24/07/2025,App,The dress hem is coming undone after first wear.,Quality,Resolved
+C314,1314,M,33,Home & Kitchen,25/07/2025,Phone,The chimney remote control range is very limited.,Quality,Escalated
+C315,1315,F,38,Books,26/07/2025,Email,The book spine is broken and cover is detached.,Quality,Pending
+C316,1316,M,41,Sports,27/07/2025,App,The football valve core is missing.,Quality,Resolved
+C317,1317,F,36,Beauty,28/07/2025,Chat,The lip balm has gritty particles in it.,Quality,Pending
+C318,1318,M,43,Jewelry,29/07/2025,Email,The earring backs don't fit properly.,Quality,Escalated
+C319,1319,F,30,Clothing,30/07/2025,App,The shirt buttons are coming loose.,Quality,Resolved
+C320,1320,M,47,Electronics,31/07/2025,Phone,The tablet case magnet is too weak.,Quality,Pending
+C321,1321,F,34,Home & Kitchen,01/08/2025,Email,The electric kettle scale buildup is excessive.,Quality,Resolved
+C322,1322,M,39,Electronics,02/08/2025,Chat,The laptop screen has pressure marks.,Quality,Pending
+C323,1323,F,42,Clothing,03/08/2025,App,The jacket lining is tearing at the seams.,Quality,Resolved
+C324,1324,M,29,Home & Kitchen,04/08/2025,Phone,The water purifier UV lamp is not working.,Quality,Escalated
+C325,1325,F,46,Books,05/08/2025,Email,The book has missing pages in the middle.,Quality,Pending
+C326,1326,M,33,Sports,06/08/2025,App,The cricket gloves padding is inadequate.,Quality,Resolved
+C327,1327,F,38,Beauty,07/08/2025,Chat,The face cream has separated consistency.,Quality,Pending
+C328,1328,M,41,Jewelry,08/08/2025,Email,The necklace clasp is too difficult to open.,Quality,Escalated
+C329,1329,F,36,Clothing,09/08/2025,App,The dress fabric is too sheer for public wear.,Quality,Resolved
+C330,1330,M,43,Electronics,10/08/2025,Phone,The smartwatch battery swelled after 2 months.,Quality,Pending
+C331,1331,F,30,Home & Kitchen,11/08/2025,Email,The food processor safety lock is not engaging properly.,Quality,Resolved
+C332,1332,M,45,Electronics,12/08/2025,Chat,The wireless mouse scroll wheel is not working.,Quality,Pending
+C333,1333,F,34,Clothing,13/08/2025,App,The jeans color faded dramatically after first wash.,Quality,Resolved
+C334,1334,M,39,Home & Kitchen,14/08/2025,Phone,The gas stove ignition is not working consistently.,Quality,Escalated
+C335,1335,F,42,Books,15/08/2025,Email,The book cover design is pixelated and blurry.,Quality,Pending
+C336,1336,M,29,Sports,16/08/2025,App,The badminton racket grip is too slippery.,Quality,Resolved
+C337,1337,F,46,Beauty,17/08/2025,Chat,The face powder compact mirror is broken.,Quality,Pending
+C338,1338,M,33,Jewelry,18/08/2025,Email,The ring size is incorrect despite providing measurements.,Quality,Escalated
+C339,1339,F,38,Clothing,19/08/2025,App,The shirt fabric is rough and itchy against skin.,Quality,Resolved
+C340,1340,M,41,Electronics,20/08/2025,Phone,The tablet charging port is loose.,Quality,Pending
+C341,1341,F,36,Home & Kitchen,21/08/2025,Email,The refrigerator water dispenser is leaking.,Quality,Resolved
+C342,1342,M,43,Electronics,22/08/2025,Chat,The Bluetooth speaker battery life is very short.,Quality,Pending
+C343,1343,F,30,Clothing,23/08/2025,App,The dress stitching is coming loose at seams.,Quality,Resolved
+C344,1344,M,47,Home & Kitchen,24/08/2025,Phone,The chimney remote control buttons are not working.,Quality,Escalated
+C345,1345,F,34,Books,25/08/2025,Email,The book arrived with water damage on cover.,Delivery,Pending
+C346,1346,M,39,Sports,26/08/2025,App,The cricket bat has a manufacturing defect in handle.,Quality,Resolved
+C347,1347,F,42,Beauty,27/08/2025,Chat,The face wash tube seal was broken.,Delivery,Pending
+C348,1348,M,29,Jewelry,28/08/2025,Email,The bracelet chain is too heavy and uncomfortable.,Quality,Escalated
+C349,1349,F,46,Clothing,29/08/2025,App,The jacket zipper is of poor quality.,Quality,Resolved
+C350,1350,M,33,Electronics,30/08/2025,Phone,The laptop keyboard has faulty keys.,Quality,Pending
+C351,1351,F,38,Home & Kitchen,31/08/2025,Email,The water heater temperature control is stuck.,Quality,Resolved
+C352,1352,M,41,Electronics,01/09/2025,Chat,The smart bulb cannot maintain stable connection.,Quality,Pending
+C353,1353,F,36,Clothing,02/09/2025,App,The shirt collar is misshapen after wash.,Quality,Resolved
+C354,1354,M,43,Home & Kitchen,03/09/2025,Phone,The mixer grinder jar lid is cracked.,Quality,Escalated
+C355,1355,F,30,Books,04/09/2025,Email,The book pages are coming loose from binding.,Quality,Pending
+C356,1356,M,45,Sports,05/09/2025,App,The football valve is defective.,Quality,Resolved
+C357,1357,F,34,Beauty,06/09/2025,Chat,The compact powder shade is different from display.,Quality,Pending
+C358,1358,M,39,Jewelry,07/09/2025,Email,The necklace chain is twisting constantly.,Quality,Escalated
+C359,1359,F,42,Clothing,08/09/2025,App,The dress size is inaccurate compared to chart.,Quality,Resolved
+C360,1360,M,29,Electronics,09/09/2025,Phone,The tablet screen has developed lines.,Quality,Pending
+C361,1361,F,46,Home & Kitchen,10/09/2025,Email,The air conditioner remote is not working.,Quality,Resolved
+C362,1362,M,33,Electronics,11/09/2025,Chat,The laptop battery doesn't hold charge.,Quality,Pending
+C363,1363,F,38,Clothing,12/09/2025,App,The sweater has manufacturing defects.,Quality,Resolved
+C364,1364,M,41,Home & Kitchen,13/09/2025,Phone,The water purifier is making noise.,Quality,Escalated
+C365,1365,F,36,Books,14/09/2025,Email,The book has printing errors.,Quality,Pending
+C366,1366,M,43,Sports,15/09/2025,App,The badminton racket is defective.,Quality,Resolved
+C367,1367,F,30,Beauty,16/09/2025,Chat,The face cream caused irritation.,Quality,Pending
+C368,1368,M,47,Jewelry,17/09/2025,Email,The earring backs are loose.,Quality,Escalated
+C369,1369,F,34,Clothing,18/09/2025,App,The jeans fabric is poor quality.,Quality,Resolved
+C370,1370,M,39,Electronics,19/09/2025,Phone,The smartwatch screen is scratched.,Quality,Pending
+C371,1371,F,42,Home & Kitchen,20/09/2025,Email,The refrigerator is not cooling properly.,Quality,Resolved
+C372,1372,M,29,Electronics,21/09/2025,Chat,The wireless earbuds have connectivity issues.,Quality,Pending
+C373,1373,F,46,Clothing,22/09/2025,App,The dress color faded after wash.,Quality,Resolved
+C374,1374,M,33,Home & Kitchen,23/09/2025,Phone,The chimney suction is weak.,Quality,Escalated
+C375,1375,F,38,Books,24/09/2025,Email,The book arrived damaged.,Delivery,Pending
+C376,1376,M,41,Sports,25/09/2025,App,The cricket ball is defective.,Quality,Resolved
+C377,1377,F,36,Beauty,26/09/2025,Chat,The lipstick case is broken.,Quality,Pending
+C378,1378,M,43,Jewelry,27/09/2025,Email,The bracelet is too tight.,Quality,Escalated
+C379,1379,F,30,Clothing,28/09/2025,App,The shirt stitching is poor.,Quality,Resolved
+C380,1380,M,45,Electronics,29/09/2025,Phone,The tablet charging is slow.,Quality,Pending
+C381,1381,F,34,Home & Kitchen,30/09/2025,Email,The food processor motor is weak.,Quality,Resolved
+C382,1382,M,39,Electronics,01/10/2025,Chat,The laptop overheats frequently.,Quality,Pending
+C383,1383,F,42,Clothing,02/10/2025,App,The jacket lining is torn.,Quality,Resolved
+C384,1384,M,29,Home & Kitchen,03/10/2025,Phone,The water heater is leaking.,Quality,Escalated
+C385,1385,F,46,Books,04/10/2025,Email,The book has missing pages.,Quality,Pending

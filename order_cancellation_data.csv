@@ -1,0 +1,127 @@
+Order_ID,Customer_ID,Product_Category,Order_Date,Cancellation_Date,Cancellation_Reason,Refund_Status,Payment_Method
+ORD7001,2051,Electronics,01/10/2024,03/10/2024,I found the same laptop at a significantly lower price on another website.,Completed,Card
+ORD7002,2052,Clothing,02/10/2024,02/10/2024,I accidentally ordered the wrong size and color. I need to re-order the correct one.,Pending,COD
+ORD7003,2053,Home & Kitchen,03/10/2024,05/10/2024,The estimated delivery date of 10 days is too long. I need the product for an event sooner.,Completed,Transfer
+ORD7004,2054,Books,04/10/2024,04/10/2024,I changed my mind about the book after reading some negative reviews online.,Completed,Card
+ORD7005,2055,Electronics,05/10/2024,06/10/2024,"The product description was unclear and after purchasing, I realized it doesn't have the features I need.",Pending,Card
+ORD7006,2056,Clothing,06/10/2024,07/10/2024,I need to cancel this order as I am traveling unexpectedly and won't be available to receive the delivery.,Completed,COD
+ORD7007,2057,Beauty,07/10/2024,08/10/2024,The shipping charges were too high compared to the actual product cost. Not worth it.,Pending,Transfer
+ORD7008,2058,Home & Kitchen,08/10/2024,09/10/2024,I found a better discount code after placing the order and your system doesn't allow price adjustments.,Completed,Card
+ORD7009,2059,Electronics,09/10/2024,10/10/2024,The product went out of stock after I ordered and the wait time is too uncertain.,Completed,Card
+ORD7010,2060,Clothing,10/10/2024,11/10/2024,"I ordered this for a gift but the occasion has passed, so I no longer need it.",Pending,COD
+ORD7011,2061,Electronics,11/10/2024,12/10/2024,I decided to buy a different model with better specifications after more research.,Completed,Card
+ORD7012,2062,Clothing,12/10/2024,13/10/2024,"The product reviews mentioned poor quality and fabric issues, so I changed my mind.",Pending,COD
+ORD7013,2063,Home & Kitchen,13/10/2024,14/10/2024,I found the same product at a local store for immediate pickup.,Completed,Transfer
+ORD7014,2064,Books,14/10/2024,15/10/2024,I realized I already own this book in my collection.,Completed,Card
+ORD7015,2065,Electronics,15/10/2024,16/10/2024,My financial situation changed and I can no longer afford this purchase.,Pending,Card
+ORD7016,2066,Clothing,16/10/2024,17/10/2024,I received a similar item as a gift from a family member.,Completed,COD
+ORD7017,2067,Beauty,17/10/2024,18/10/2024,I read that this product contains ingredients I am allergic to.,Completed,Transfer
+ORD7018,2068,Home & Kitchen,18/10/2024,19/10/2024,The product dimensions won't fit in my available space as I initially thought.,Pending,Card
+ORD7019,2069,Electronics,19/10/2024,20/10/2024,I need the product immediately but the delivery timeline is too long for my urgent requirement.,Completed,Card
+ORD7020,2070,Clothing,20/10/2024,21/10/2024,"The color I wanted went out of stock after I ordered, and no alternative was offered.",Pending,COD
+ORD7021,2071,Electronics,21/10/2024,22/10/2024,"The product specifications were updated after I placed my order, showing lower features than advertised.",Completed,Card
+ORD7022,2072,Clothing,22/10/2024,23/10/2024,I found a better quality alternative from a different brand at similar price.,Pending,COD
+ORD7023,2073,Home & Kitchen,23/10/2024,24/10/2024,My spouse purchased the same item without knowing I had already ordered it.,Completed,Transfer
+ORD7024,2074,Books,24/10/2024,25/10/2024,The ebook version became available at a much lower price.,Completed,Card
+ORD7025,2075,Electronics,25/10/2024,26/10/2024,The product warranty terms are not satisfactory for such an expensive item.,Pending,Card
+ORD7026,2076,Clothing,26/10/2024,27/10/2024,I am not confident about the return policy if the size doesn't fit perfectly.,Completed,COD
+ORD7027,2077,Beauty,27/10/2024,28/10/2024,I realized this product is not suitable for my skin type after consulting with a dermatologist.,Completed,Transfer
+ORD7028,2078,Home & Kitchen,28/10/2024,29/10/2024,The product assembly seems too complicated based on customer reviews.,Pending,Card
+ORD7029,2079,Electronics,29/10/2024,30/10/2024,I need to prioritize other expenses due to unexpected medical bills.,Completed,Card
+ORD7030,2080,Clothing,30/10/2024,31/10/2024,The fabric care instructions are too high maintenance for regular use.,Pending,COD
+ORD7031,2081,Electronics,31/10/2024,01/11/2024,The product has known technical issues mentioned in recent customer reviews.,Completed,Card
+ORD7032,2082,Clothing,01/11/2024,02/11/2024,I found the same design at a seasonal sale in a physical store.,Pending,COD
+ORD7033,2083,Home & Kitchen,02/11/2024,03/11/2024,The product requires professional installation which is an additional cost I didn't anticipate.,Completed,Transfer
+ORD7034,2084,Books,03/11/2024,04/11/2024,I discovered the author has published a newer edition with updated content.,Completed,Card
+ORD7035,2085,Electronics,04/11/2024,05/11/2024,The product is not compatible with my existing devices as I initially assumed.,Pending,Card
+ORD7036,2086,Clothing,05/11/2024,06/11/2024,The weather has changed and I no longer need this seasonal clothing item.,Completed,COD
+ORD7037,2087,Beauty,06/11/2024,07/11/2024,This product is nearing its expiration date according to the batch code provided.,Completed,Transfer
+ORD7038,2088,Home & Kitchen,07/11/2024,08/11/2024,The product energy consumption is higher than what I'm comfortable with for regular use.,Pending,Card
+ORD7039,2089,Electronics,08/11/2024,09/11/2024,I read about a newer model launching next month with significant improvements.,Completed,Card
+ORD7040,2090,Clothing,09/11/2024,10/11/2024,The outfit doesn't match with any of my existing accessories and shoes.,Pending,COD
+ORD7041,2091,Electronics,10/11/2024,11/11/2024,The product requires additional accessories that are quite expensive to make it functional.,Completed,Card
+ORD7042,2092,Clothing,11/11/2024,12/11/2024,I found a more sustainable and eco-friendly alternative from another brand.,Pending,COD
+ORD7043,2093,Home & Kitchen,12/11/2024,13/11/2024,The product maintenance costs are higher than I initially calculated in my budget.,Completed,Transfer
+ORD7044,2094,Books,13/11/2024,14/11/2024,The book is available for free borrowing at my local library.,Completed,Card
+ORD7045,2095,Electronics,14/11/2024,15/11/2024,The product has poor after-sales service support in my city according to online reviews.,Pending,Card
+ORD7046,2096,Clothing,15/11/2024,16/11/2024,The fashion trend has changed and this style is no longer in season.,Completed,COD
+ORD7047,2097,Beauty,16/11/2024,17/11/2024,The product contains animal-derived ingredients which conflicts with my vegan lifestyle.,Completed,Transfer
+ORD7048,2098,Home & Kitchen,17/11/2024,18/11/2024,The product dimensions were listed incorrectly on the website and won't fit my space.,Pending,Card
+ORD7049,2099,Electronics,18/11/2024,19/11/2024,I need the product for a business presentation that got postponed indefinitely.,Completed,Card
+ORD7050,2100,Clothing,19/11/2024,20/11/2024,The fabric composition is different from what I prefer for comfort and breathability.,Pending,COD
+ORD7051,2101,Electronics,20/11/2024,21/11/2024,The product has known software bugs that the manufacturer hasn't addressed in updates.,Completed,Card
+ORD7052,2102,Clothing,21/11/2024,22/11/2024,I found a handmade alternative from a local artisan that I prefer to support.,Pending,COD
+ORD7053,2103,Home & Kitchen,22/11/2024,23/11/2024,The product requires special cleaning products that are expensive and hard to find.,Completed,Transfer
+ORD7054,2104,Books,23/11/2024,24/11/2024,The book is part of a series and I realized I should start from the first book instead.,Completed,Card
+ORD7055,2105,Electronics,24/11/2024,25/11/2024,The product brand has ethical concerns regarding their manufacturing practices.,Pending,Card
+ORD7056,2106,Clothing,25/11/2024,26/11/2024,The care instructions require dry cleaning which is too expensive for regular maintenance.,Completed,COD
+ORD7057,2107,Beauty,26/11/2024,27/11/2024,The product packaging is not environmentally friendly and generates too much plastic waste.,Completed,Transfer
+ORD7058,2108,Home & Kitchen,27/11/2024,28/11/2024,The product has safety concerns mentioned in recent consumer reports.,Pending,Card
+ORD7059,2109,Electronics,28/11/2024,29/11/2024,I decided to invest in a premium model with better longevity and features.,Completed,Card
+ORD7060,2110,Clothing,29/11/2024,30/11/2024,The outfit requires special undergarments that I don't own and would need to purchase separately.,Pending,COD
+ORD7061,2111,Electronics,30/11/2024,01/12/2024,The product has limited customization options compared to competing brands.,Completed,Card
+ORD7062,2112,Clothing,01/12/2024,02/12/2024,I found the same design available for rental at a much lower cost for my one-time event.,Pending,COD
+ORD7063,2113,Home & Kitchen,02/12/2024,03/12/2024,The product installation requires structural changes to my home that I cannot make as a renter.,Completed,Transfer
+ORD7064,2114,Books,03/12/2024,04/12/2024,The audiobook version became available and better suits my current lifestyle.,Completed,Card
+ORD7065,2115,Electronics,04/12/2024,05/12/2024,The product has connectivity issues with older devices that I still need to use.,Pending,Card
+ORD7066,2116,Clothing,05/12/2024,06/12/2024,The color I ordered is discontinued and no suitable alternative was available.,Completed,COD
+ORD7067,2117,Beauty,06/12/2024,07/12/2024,The product is tested on animals which conflicts with my ethical values.,Completed,Transfer
+ORD7068,2118,Home & Kitchen,07/12/2024,08/12/2024,The product requires frequent filter replacements that are expensive and hard to source.,Pending,Card
+ORD7069,2119,Electronics,08/12/2024,09/12/2024,I need to reduce my screen time for health reasons as advised by my doctor.,Completed,Card
+ORD7070,2120,Clothing,09/12/2024,10/12/2024,The outfit doesn't align with my company's dress code policy for workplace wear.,Pending,COD
+ORD7071,2121,Electronics,10/12/2024,11/12/2024,The product has regional restrictions that limit functionality in my country.,Completed,Card
+ORD7072,2122,Clothing,11/12/2024,12/12/2024,I realized this style doesn't suit my body type after seeing similar outfits on others.,Pending,COD
+ORD7073,2123,Home & Kitchen,12/12/2024,13/12/2024,The product energy efficiency rating is lower than what I require for long-term savings.,Completed,Transfer
+ORD7074,2124,Books,13/12/2024,14/12/2024,I found a bundle deal that includes this book with others I wanted at better value.,Completed,Card
+ORD7075,2125,Electronics,14/12/2024,15/12/2024,The product doesn't have the necessary certifications for use in my industry.,Pending,Card
+ORD7076,2126,Clothing,15/12/2024,16/12/2024,The fabric composition is not suitable for the climate in my region.,Completed,COD
+ORD7077,2127,Beauty,16/12/2024,17/12/2024,The product size is too small for the price point and doesn't offer good value.,Completed,Transfer
+ORD7078,2128,Home & Kitchen,17/12/2024,18/12/2024,The product dimensions don't fit well with my existing kitchen layout.,Pending,Card
+ORD7079,2129,Electronics,18/12/2024,19/12/2024,I received a gift card that I want to use for this purchase instead.,Completed,Card
+ORD7080,2130,Clothing,19/12/2024,20/12/2024,The product care instructions are not practical for my busy lifestyle.,Pending,COD
+ORD7081,2131,Electronics,20/12/2024,21/12/2024,The product has compatibility issues with my existing ecosystem of devices.,Completed,Card
+ORD7082,2132,Clothing,21/12/2024,22/12/2024,I found a pre-owned version in excellent condition at half the price.,Pending,COD
+ORD7083,2133,Home & Kitchen,22/12/2024,23/12/2024,The product requires professional maintenance that is not available in my area.,Completed,Transfer
+ORD7084,2134,Books,23/12/2024,24/12/2024,The book is part of a subscription service I recently joined.,Completed,Card
+ORD7085,2135,Electronics,24/12/2024,25/12/2024,The product has known security vulnerabilities that haven't been patched.,Pending,Card
+ORD7086,2136,Clothing,25/12/2024,26/12/2024,The outfit requires special dry cleaning that is not available nearby.,Completed,COD
+ORD7087,2137,Beauty,26/12/2024,27/12/2024,The product contains synthetic fragrances that trigger my allergies.,Completed,Transfer
+ORD7088,2138,Home & Kitchen,27/12/2024,28/12/2024,The product warranty doesn't cover the most common failure points.,Pending,Card
+ORD7089,2139,Electronics,28/12/2024,29/12/2024,I need the product for a project that got cancelled at the last minute.,Completed,Card
+ORD7090,2140,Clothing,29/12/2024,30/12/2024,The fashion trend this represents is already fading in popularity.,Pending,COD
+ORD7091,2141,Electronics,30/12/2024,31/12/2024,The product has poor resale value compared to competing brands.,Completed,Card
+ORD7092,2142,Clothing,31/12/2024,01/01/2025,I realized I already have too many similar items in my wardrobe.,Pending,COD
+ORD7093,2143,Home & Kitchen,01/01/2025,02/01/2025,The product installation timeline doesn't work with my schedule.,Completed,Transfer
+ORD7094,2144,Books,02/01/2025,03/01/2025,I found the content available for free through my educational institution.,Completed,Card
+ORD7095,2145,Electronics,03/01/2025,04/01/2025,The product doesn't support the latest industry standards I need.,Pending,Card
+ORD7096,2146,Clothing,04/01/2025,05/01/2025,The outfit doesn't match my personal style as I initially thought.,Completed,COD
+ORD7097,2147,Beauty,05/01/2025,06/01/2025,The product packaging is excessive and environmentally wasteful.,Completed,Transfer
+ORD7098,2148,Home & Kitchen,06/01/2025,07/01/2025,The product requires additional accessories not included in the package.,Pending,Card
+ORD7099,2149,Electronics,07/01/2025,08/01/2025,I decided to wait for the next version rumored to have significant upgrades.,Completed,Card
+ORD7100,2150,Clothing,08/01/2025,09/01/2025,The fabric texture is not what I expected from the product images.,Pending,COD
+ORD7101,2151,Electronics,09/01/2025,10/01/2025,The product has known reliability issues in humid conditions.,Completed,Card
+ORD7102,2152,Clothing,10/01/2025,11/01/2025,I found a customizable version that better fits my specific requirements.,Pending,COD
+ORD7103,2153,Home & Kitchen,11/01/2025,12/01/2025,The product doesn't integrate well with my smart home system.,Completed,Transfer
+ORD7104,2154,Books,12/01/2025,13/01/2025,The author released updated content that makes this edition outdated.,Completed,Card
+ORD7105,2155,Electronics,13/01/2025,14/01/2025,The product has limited upgrade options for future needs.,Pending,Card
+ORD7106,2156,Clothing,14/01/2025,15/01/2025,The color doesn't look good with my skin tone as I hoped.,Completed,COD
+ORD7107,2157,Beauty,15/01/2025,16/01/2025,The product size is larger than I need and would go to waste.,Completed,Transfer
+ORD7108,2158,Home & Kitchen,16/01/2025,17/01/2025,The product requires more counter space than I have available.,Pending,Card
+ORD7109,2159,Electronics,17/01/2025,18/01/2025,I found a refurbished model with warranty at a much lower price.,Completed,Card
+ORD7110,2160,Clothing,18/01/2025,19/01/2025,The outfit requires specific undergarments that I don't own.,Pending,COD
+ORD7111,2161,Electronics,19/01/2025,20/01/2025,The product has known software compatibility issues with my operating system.,Completed,Card
+ORD7112,2162,Clothing,20/01/2025,21/01/2025,I found the same item at a local boutique with better customer service.,Pending,COD
+ORD7113,2163,Home & Kitchen,21/01/2025,22/01/2025,The product energy consumption is higher than my current unit.,Completed,Transfer
+ORD7114,2164,Books,22/01/2025,23/01/2025,The book is available through my book club membership.,Completed,Card
+ORD7115,2165,Electronics,23/01/2025,24/01/2025,The product doesn't have the necessary ports for my peripherals.,Pending,Card
+ORD7116,2166,Clothing,24/01/2025,25/01/2025,The outfit doesn't work well with my existing wardrobe pieces.,Completed,COD
+ORD7117,2167,Beauty,25/01/2025,26/01/2025,The product contains ingredients that are being investigated for safety concerns.,Completed,Transfer
+ORD7118,2168,Home & Kitchen,26/01/2025,27/01/2025,The product has poor customer reviews for durability and longevity.,Pending,Card
+ORD7119,2169,Electronics,27/01/2025,28/01/2025,I need to allocate these funds for an unexpected home repair.,Completed,Card
+ORD7120,2170,Clothing,28/01/2025,29/01/2025,The fabric doesn't breathe well and would be uncomfortable in my climate.,Pending,COD
+ORD7121,2171,Electronics,29/01/2025,30/01/2025,The product has known issues with the latest software update.,Completed,Card
+ORD7122,2172,Clothing,30/01/2025,31/01/2025,I found a more versatile piece that can be worn multiple ways.,Pending,COD
+ORD7123,2173,Home & Kitchen,31/01/2025,01/02/2025,The product requires professional calibration that is too expensive.,Completed,Transfer
+ORD7124,2174,Books,01/02/2025,02/02/2025,The book is part of a series I decided not to continue reading.,Completed,Card
+ORD7125,2175,Electronics,02/02/2025,03/02/2025,The product doesn't support the file formats I commonly use.,Pending,Card
+ORD7126,2176,Clothing,03/02/2025,04/02/2025,The outfit requires specific shoes that I don't own and aren't practical.,Completed,C    a    
